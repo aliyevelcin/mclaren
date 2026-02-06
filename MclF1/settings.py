@@ -29,7 +29,7 @@ ALLOWED_HOSTS = [
    ".onrender.com",
     '127.0.0.1',
     'localhost',
-    'MclF1.onrender.com'
+    'mclaren-3t2h.onrender.com'
 ]
 
 
